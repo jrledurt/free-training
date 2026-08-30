@@ -1,8 +1,8 @@
 
 
-# Yo Dylan...heres the links to job training opportunities my Hermes agent has collected over the past month. Some are in CS, others are not. 
+# Yo Dylan...heres the links to job training opportunities my Hermes agent has collected over the past month. Some are in CS, others are not. There is a lot of junk here but its worth a look.  
 
-## I fed the the current list to chatgpt and asked which ones were best for CS degree without a CS job...Top 10 on bottom.
+## I fed the the current list to chatgpt and asked which ones were best for CS degree without a CS job...Top 10 on bottom. 
 
 ## All Programs
 
