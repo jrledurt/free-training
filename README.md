@@ -1,19 +1,8 @@
----
-date: 2026-08-30
-title: Free or Low Cost Online Training
-slug: free-training
-description: "Daily watch for free or low-cost training that leads to entry-level jobs."
----
 
-**Deadline:** Per Scholas — AI-Enabled Healthcare IT Technician (Cambridge) applications due **Aug 31**; NEHERS HERS Modeler/RFI application deadline **Sep 9**; National Grid Energy Infrastructure Academy (Worcester) apply by **Sep 11**.
 
-## New finds
+# Yo Dylan...heres the links to job training opportunities my Hermes agent has collected over the past month. Some are in CS, others are not. 
 
-| Program | Field | Cost | Length | Leads To | Link |
-|---|---|---|---|---|---|
-| Attleboro Technical Institute (Zero-Cost CTI) | Trades: Automotive, Carpentry, Electrical, HVAC, Plumbing, Welding | Free (CTI/CommCorp grant; MA residents 18+, unemployed/underemployed) | 200 hrs; Fall 2026 accepting applications | Trade entry credentials; six in-demand trades; employer pipeline | https://www.attleboropublicschools.com |
-| Henry Street Settlement Building Automation Systems (BAS) Training | Clean energy/building automation | Free — paid training + completion stipend (NYC ages 18–24, out of school & work) | 10 wks full-time (Nov 2026 cohort) | EPA 608 Universal Technician + Lighting Controls Assoc certs; BAS technician / energy analyst (90% placement) | https://www.henrystreet.org/career-training/ |
-| TCL Free Workforce Training (Technical College of the Lowcountry) | CDL, EMT, welding (CNC/manufacturing soon) | Free — SC state scholarship up to $5,000 covers tuition, fees, books, testing | Short months; CDL/EMT/Welding available now | CDL, EMT, welding industry credentials; in-demand careers | https://www.tcl.edu/news/free-workforce-training-programs/ |
+## I fed the the current list to chatgpt and asked which ones were best for CS degree without a CS job...Top 10 on bottom.
 
 ## All Programs
 
@@ -309,6 +298,62 @@ description: "Daily watch for free or low-cost training that leads to entry-leve
 | Henry Street Settlement Building Automation Systems (BAS) Training | Clean energy/building automation | Free — paid training + completion stipend (NYC ages 18–24, out of school & work) | 10 wks full-time (Nov 2026 cohort) | EPA 608 Universal Technician + Lighting Controls Assoc certs; BAS technician / energy analyst (90% placement) | https://www.henrystreet.org/career-training/ |
 | TCL Free Workforce Training (Technical College of the Lowcountry) | CDL, EMT, welding (CNC/manufacturing soon) | Free — SC state scholarship up to $5,000 covers tuition, fees, books, testing | Short months; CDL/EMT/Welding available now | CDL, EMT, welding industry credentials; in-demand careers | https://www.tcl.edu/news/free-workforce-training-programs/ |
 
+# Chatgpt's top 10
+# Top 10 Programs for an Underemployed CS Graduate With No CS Job
+**Goal:** Find programs that help a CS graduate bridge the gap between having the degree and actually landing a first technical job.
+## Ranking
+| Rank | Program | Link | Take for a CS Grad |
+|---:|---|---|---|
+| **1** | **Per Scholas** | https://perscholas.org | ⭐⭐⭐⭐⭐ Best overall |
+| **2** | **Resilient Coders** | https://www.resilientcoders.org | ⭐⭐⭐⭐⭐ Excellent **if eligible** |
+| **3** | **Merit America** | https://meritamerica.org | ⭐⭐⭐⭐½ Very practical fallback |
+| **4** | **Year Up United** | https://www.yearup.org | ⭐⭐⭐⭐½ Excellent for the paid internship |
+| **5** | **Code Platoon** | https://www.codeplatoon.org | ⭐⭐⭐⭐½ Excellent **if eligible** |
+| **6** | **COOP Careers Fellowship** | https://coopcareers.org | ⭐⭐⭐⭐ Strong for data/analytics |
+| **7** | **Generation USA** | https://usa.generation.org | ⭐⭐⭐⭐ Underrated |
+| **8** | **CCAB El Centro IT Cybersecurity** | https://www.ccab.org/adult-education-workforce-development/job-training/ | ⭐⭐⭐⭐ Strong MA-specific cyber option |
+| **9** | **Apprenticeships.me** | https://apprenticeships.me | ⭐⭐⭐⭐ Valuable as a job-search mechanism |
+| **10** | **Google Career Certificates** | https://grow.google/certificates | ⭐⭐⭐½ Useful, not transformative |
+## 1. 🥇 Per Scholas
+**Link:** https://perscholas.org
+**Greater Boston cohorts:** https://perscholas.org/locations/greater-boston/
+This is the one to investigate **first**. Per Scholas covers **IT, cybersecurity, cloud, software and data**, with free training, certification coverage, and pathways toward IT support, cybersecurity and junior development. There are also specific **Greater Boston** offerings, including IT support and a remote cybersecurity analyst program.
+**Why #1:** You're not lacking a degree — you're lacking **professional evidence**. Per Scholas can give you CS degree + structured technical training + certification + career support + employer exposure. That's much more useful than another generic online course.
+## 2. 🥈 Resilient Coders
+**Link:** https://www.resilientcoders.org
+If you meet the eligibility requirements, this could be **#1 for a pure software-engineering objective**. The program is focused on software engineering, is free, pays a $500 biweekly stipend, runs ~18 weeks, is Boston-based, and leads toward software engineering roles. That's an unusually good package.
+The major caveat is eligibility — the program is designed around specific criteria, so it isn't universally available. For an eligible CS grad, it's potentially the strongest SWE-focused option on the list.
+## 3. 🥉 Merit America
+**Link:** https://meritamerica.org
+Interesting because of the **$0 until hired** structure. Programs listed include IT support, data analytics and Java, with stated outcomes in IT support, data analyst and junior developer roles.
+For someone unemployed or underemployed, that's a very different proposition from spending $5,000–$15,000 on another bootcamp. Consider it especially if your position is: *"I don't care whether my first job is pure SWE. I need to get into a technical career and start building experience."*
+## 4. Year Up United
+**Link:** https://www.yearup.org
+Potentially extremely valuable for exactly this problem. The important part isn't the coursework — it's **1 year + a paid internship**. The program is described as free with a stipend and includes a paid internship.
+A CS graduate with *degree + no experience* is in a difficult position. A CS graduate with *degree + recognizable employer internship* is a very different candidate. Worth taking even if the work isn't your dream software-engineering position.
+## 5. Code Platoon
+**Link:** https://www.codeplatoon.org
+Jumps way up the list **if you're eligible**. It aims specifically at software/cloud engineering → junior developer, running roughly 14 weeks full-time, with scholarships, GI Bill and SkillBridge possibilities.
+With a CS degree already in hand, this beats "here's another 6-month introductory programming certificate." The main issues are eligibility and funding.
+## 6. COOP Careers Fellowship
+**Link:** https://coopcareers.org
+Don't overlook this one. It covers data analytics, digital marketing and financial services; it's free, runs ~16 weeks, has 8,000+ alumni, and includes career coaching plus resume/interview preparation.
+If you're willing to consider data analyst / analytics / technical business roles, this becomes much more attractive. Those can be excellent **first** technical jobs that later let you move toward engineering or data engineering.
+## 7. Generation USA
+**Link:** https://usa.generation.org
+Very underrated. It's free and employer-funded, covers technology alongside several other career tracks, and lists 83% employment within six months, industry certifications and an employer network. Investigate this before paying for a bootcamp.
+## 8. CCAB El Centro IT Cybersecurity
+**Link:** https://www.ccab.org/adult-education-workforce-development/job-training/
+For someone in Massachusetts, this deserves serious consideration: IT/cybersecurity → Security+ and PenTest certifications + 15 college credits, free including training, materials and certification exams.
+Don't do this merely because "cybersecurity is hot." Do it if you're genuinely willing to pursue SOC → Security Analyst → Security Engineering / Cloud Security rather than insisting on SWE.
+## 9. Apprenticeships.me
+**Link:** https://apprenticeships.me
+This isn't really education — and that's precisely why it's worth using. It's a free directory of paid tech apprenticeships. With a CS degree already, six months spent trying to get paid technical experience beats accumulating five more certificates. Use it alongside #1–#8 rather than instead of them.
+## 10. Google Career Certificates
+**Link:** https://grow.google/certificates
+**Free for MA residents (Google AI + Career Certificates):** https://aihub.masstech.org/google-certificates
+Useful, but #10 rather than #1. The certificates cover IT support, data, cybersecurity, UX and project management, available for around $49/month unless you qualify for financial aid. For someone without a degree, that's attractive.
+For someone who already has a CS degree: a Google certificate doesn't replace a missing CS degree, and you already have the academic credential. Your missing ingredient is **experience**.
 ## Notes
 
 Sunday broad sweep for new free/low-cost career training programs, scholarships, and cohort deadlines. Added three programs today: **Attleboro Technical Institute (Zero-Cost CTI)** (six trades, 200-hr, Fall 2026 accepting applications), **Henry Street Settlement Building Automation Systems (BAS) Training** (free paid training + stipend, EPA 608 + Lighting Controls certs, 90% placement into BAS/energy analyst roles; Nov 2026 cohort info session), and **TCL Free Workforce Training** (Technical College of the Lowcountry — SC state scholarship up to $5,000 covering CDL, EMT, and Welding, available now). Re-verified Per Scholas and NPower (both live, HTTP 200).
